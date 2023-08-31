@@ -1417,7 +1417,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		#header-outer #mobile-menu:before { 
 			background-color:#ffffff; 
 		}body #header-outer, body[data-header-color="dark"] #header-outer { 
-				 background-color: #0736ca;
+				 background-color: #000000 ;/*#0736ca*/
 			 }.material #header-outer:not(.transparent) .bg-color-stripe { 
 				 display: none; 
 			 }
@@ -1445,7 +1445,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
     body[data-header-format="left-header"].material #search-outer input::-webkit-input-placeholder,
 		#header-outer #mobile-menu ul li a,
 		#header-outer #mobile-menu .below-menu-items-wrap p { 
-			color:white; 
+			color:#f06e1b; 
 		}
 		#header-outer #top .slide-out-widget-area-toggle a .lines:after, 
 		#header-outer #top .slide-out-widget-area-toggle a .lines:before,
