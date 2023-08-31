@@ -1935,13 +1935,13 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		} #ajax-loading-screen .reveal-1 { background-color: #000000; }#ajax-loading-screen .reveal-2 { background-color: #131314; }
 	 #header-outer #logo .mobile-only-logo, 
 	 #header-outer[data-format="centered-menu-bottom-bar"][data-condense="true"] .span_9 #logo img { 	
-		 height: 30px; 
+		 height: 90px; 
 	 }
 	 
 	 @media only screen and (max-width: 999px) { 
 		 	body #top #logo img, 
 			#header-outer[data-permanent-transparent="false"] #logo .dark-version { 
-		 		height: 30px!important; 
+		 		height: 90px!important; 
 		 	} 
 
 	 } .portfolio-loading, #ajax-loading-screen .loading-icon, .loading-icon, .pp_loaderIcon { background-image: url("../../../uploads/2020/04/loading-rockingdata.gif"); } @media only screen and (min-width: 1000px) and (max-width: 1300px) {
