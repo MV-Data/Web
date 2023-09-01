@@ -1734,7 +1734,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		} 
 		#footer-outer, 
 		#nectar_fullscreen_rows > #footer-outer.wpb_row .full-page-inner-wrap { 
-			background-color:#00000!important; 
+			background-color:#000000!important; 
 		} 
 		#footer-outer #footer-widgets { 
 			border-bottom: none; 
