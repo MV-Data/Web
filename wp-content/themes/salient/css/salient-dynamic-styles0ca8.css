@@ -1417,7 +1417,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		#header-outer #mobile-menu:before { 
 			background-color:#ffffff; 
 		}body #header-outer, body[data-header-color="dark"] #header-outer { 
-				 background-color: #0521a5;
+				 background-color: #000000;
 			 }.material #header-outer:not(.transparent) .bg-color-stripe { 
 				 display: none; 
 			 }
