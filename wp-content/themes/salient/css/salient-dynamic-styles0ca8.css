@@ -241,7 +241,7 @@ body[data-form-submit="regular"] .container-wrap .span_12.light button[type=subm
 #slide-out-widget-area-bg.fullscreen-alt .bg-inner,
 body.material #slide-out-widget-area-bg.slide-out-from-right,
 .widget .material .widget .tagcloud a:before { 
-	background-color:#ffe900; 
+	background-color:#f06e1b; 
 }
 	
 
@@ -417,7 +417,7 @@ body.original .bypostauthor .comment-body:before,
 .nectar-next-section-wrap.bounce a:before,
 body .nectar-button.see-through-2[data-hover-color-override="false"]:hover  
 {
-	background-color:#ffe900!important;
+	background-color:#f06e1b!important;
 }
 .tabbed > ul li .active-tab, 	
 .material input[type=text]:focus, 
@@ -551,26 +551,26 @@ body.material[data-button-style^="rounded"] .nectar-button.see-through.accent-co
 }
 
 .container-wrap .bottom_controls #portfolio-nav ul:first-child  li#all-items a:hover i { 
-	box-shadow: -.6em 0 #ffe900, 
-  -.6em .6em #ffe900, 
-  .6em 0 #ffe900, 
-  .6em -.6em #ffe900, 
-  0 -.6em #ffe900, 
-  -.6em -.6em #ffe900, 
-  0 .6em #ffe900, 
-  .6em .6em #ffe900;  
+	box-shadow: -.6em 0 #f06e1b, 
+  -.6em .6em #f06e1b, 
+  .6em 0 #f06e1b, 
+  .6em -.6em #f06e1b, 
+  0 -.6em #f06e1b, 
+  -.6em -.6em #f06e1b, 
+  0 .6em #f06e1b, 
+  .6em .6em #f06e1b;  
 }
 
 @media only screen and (max-width: 768px) {
 	.woocommerce-page table.cart a.remove {
-		background-color:#ffe900!important;
+		background-color:#f06e1b!important;
 	}
 }
 
 #fp-nav:not(.light-controls).tooltip_alt ul li a.active span, 
 #fp-nav.tooltip_alt ul li a.active span { 
-	box-shadow: inset 0 0 0 2px #ffe900; 
-	-webkit-box-shadow: inset 0 0 0 2px #ffe900; 
+	box-shadow: inset 0 0 0 2px #f06e1b; 
+	-webkit-box-shadow: inset 0 0 0 2px #f06e1b; 
 }
 
 .default-loading-icon:before { 
@@ -603,8 +603,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 }
 
 @media only screen and (min-width : 1px) and (max-width : 1000px) {
-		body #featured article .post-title > a { background-color:#ffe900; }
-		body #featured article .post-title > a { border-color:#ffe900; }
+		body #featured article .post-title > a { background-color:#f06e1b; }
+		body #featured article .post-title > a { border-color:#f06e1b; }
 	}#header-outer .widget_shopping_cart .cart_list li a.remove,  
 		.original #header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,
 		.stock.out-of-stock,
