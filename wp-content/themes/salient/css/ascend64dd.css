@@ -1036,7 +1036,15 @@ body.ascend .mfp-arrow-right,
     transform:translateX(-7px);
     -webkit-transform:translateX(-7px) 
 }
-.container-wrap input[type="text"],
+.container-wrap input[type="text"] {
+    background-color:transparent;
+    border:1px solid #ccc;
+    box-shadow:none;
+    -webkit-box-shadow:none;
+    font-size:16px;
+    -o-box-shadow:none;
+    padding:40px;
+}
 .container-wrap textarea,
 .container-wrap input[type="email"],
 .container-wrap input[type="password"],
