@@ -43,7 +43,7 @@ body.material #footer-outer .widget:not(.nectar_popular_posts_widget):not(.recen
 #header-outer #mobile-menu ul li a:hover .sf-sub-indicator i,
 #header-outer #mobile-menu ul li a:focus .sf-sub-indicator i
 { 
-	color: #ffe900; 
+	color: #F06E1B; 
 }
 
 
@@ -182,7 +182,7 @@ body.search-no-results .search-form button[type=submit] .icon-salient-search,
 .col:not(.post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.accent-color.alt-style.hovered, 
 body .col:not(.post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,
 .ascend #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap:not(.has_products) .icon-salient-cart {
-	color:#ffe900!important;
+	color:#F06E1B!important;
 }
 .nectar-highlighted-text em:before,
 .nectar_icon_wrap[data-style="soft-bg"][data-color="accent-color"] .nectar_icon:before, 
@@ -449,7 +449,7 @@ body[data-form-style="minimal"] input[type=date]:focus,
 .single #single-meta div a:focus,
 .single .fullscreen-blog-header #single-below-header > span a:hover,
 .blog-title #single-meta .nectar-social.hover > div a:hover {
-	border-color:#ffe900;
+	border-color:#F06E1B;
 }
 
 
@@ -488,66 +488,66 @@ body[data-form-submit="see-through"] .woocommerce #order_review #payment #place_
 .single-product .product[data-gallery-style="left_thumb_sticky"] .product-thumbs .flickity-slider .thumb.is-nav-selected img,
 .single-product:not(.mobile) .product[data-gallery-style="left_thumb_sticky"] .product-thumbs .thumb a.active img,
 .gallery a:hover img {
-	border-color:#ffe900!important;
+	border-color:#F06E1B!important;
 }
 .nectar_icon_wrap .svg-icon-holder[data-color="accent-color"] svg path { 
-	stroke:#ffe900!important; 
+	stroke:#F06E1B!important; 
 }
 	
 body.material[data-button-style^="rounded"] .nectar-button.see-through.accent-color[data-color-override="false"] i:after { 
-	box-shadow: #ffe900 0px 8px 15px; opacity: 0.24; 
+	box-shadow: #F06E1B 0px 8px 15px; opacity: 0.24; 
 }
 
 .nectar-fancy-box[data-style="color_box_hover"][data-color="accent-color"]:hover:before { 
-	box-shadow: 0 30px 90px #ffe900; 
+	box-shadow: 0 30px 90px #F06E1B; 
 } 
 
 .nectar-fancy-box[data-style="hover_desc"][data-color="accent-color"]:before {
-  background: linear-gradient(to bottom, rgba(0,0,0,0), #ffe900 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,0), #F06E1B 100%);
 }
 
 #footer-outer[data-link-hover="underline"][data-custom-color="false"] ul:not([class*="nectar_blog_posts"]) a:not(.tag-cloud-link):not(.nectar-button),
 #footer-outer[data-link-hover="underline"] #footer-widgets .textwidget a:not(.nectar-button) {
-  background-image: linear-gradient(to right, #ffe900 0%, #ffe900 100%);
+  background-image: linear-gradient(to right, #F06E1B 0%, #F06E1B 100%);
 }
 
 .woocommerce.material .widget_price_filter .ui-slider .ui-slider-handle:before, 
 .material.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle:before {
-	box-shadow: 0 0 0 10px #ffe900 inset;
+	box-shadow: 0 0 0 10px #F06E1B inset;
 }
 .woocommerce.material .widget_price_filter .ui-slider .ui-slider-handle.ui-state-active:before, 
 .material.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-active:before {
-	box-shadow: 0 0 0 2px #ffe900 inset;
+	box-shadow: 0 0 0 2px #F06E1B inset;
 }
 
 .nectar_icon_wrap[data-style="shadow-bg"][data-color="accent-color"] .nectar_icon:before {
-  box-shadow: 0px 15px 28px #ffe900; opacity: 0.3; 
+  box-shadow: 0px 15px 28px #F06E1B; opacity: 0.3; 
 }  
 
 .tabbed[data-style="minimal_flexible"][data-color-scheme="accent-color"] .wpb_tabs_nav > li a:before {
-  box-shadow: 0px 8px 22px #ffe900;
+  box-shadow: 0px 8px 22px #F06E1B;
 }
 
 .woocommerce #sidebar .widget_layered_nav ul.yith-wcan-color li.chosen a {
-	box-shadow: 0 0 0 2px #ffe900, inset 0 0 0 3px #fff;
+	box-shadow: 0 0 0 2px #F06E1B, inset 0 0 0 3px #fff;
 }
 .woocommerce #sidebar .widget_layered_nav ul.yith-wcan-color li a:hover {
-	box-shadow: 0 0 0 2px #ffe900, 0px 8px 20px rgba(0,0,0,0.2), inset 0 0 0 3px #fff;
+	box-shadow: 0 0 0 2px #F06E1B, 0px 8px 20px rgba(0,0,0,0.2), inset 0 0 0 3px #fff;
 }
 
 .nectar-leaflet-map[data-nectar-marker-color="accent-color"] .nectar-leaflet-pin { 
-	border: 10px solid #ffe900; 
+	border: 10px solid #F06E1B; 
 }
 
 .woocommerce-account .woocommerce > #customer_login .nectar-form-controls .control {
-  background-image: linear-gradient(to right, #ffe900 0%, #ffe900 100%); 
+  background-image: linear-gradient(to right, #F06E1B 0%, #F06E1B 100%); 
 }
 
 #search-results .result .title a {
-  background-image: linear-gradient(to right, #ffe900 0%, #ffe900 100%); 
+  background-image: linear-gradient(to right, #F06E1B 0%, #F06E1B 100%); 
 }
 .tabbed[data-style*="material"][data-color-scheme="accent-color"] ul li .active-tab:after { 
-	box-shadow: 0px 18px 50px  #ffe900; 
+	box-shadow: 0px 18px 50px  #F06E1B; 
 }
 
 .container-wrap .bottom_controls #portfolio-nav ul:first-child  li#all-items a:hover i { 
@@ -574,12 +574,12 @@ body.material[data-button-style^="rounded"] .nectar-button.see-through.accent-co
 }
 
 .default-loading-icon:before { 
-	border-top-color:#ffe900!important; 
+	border-top-color:#F06E1B!important; 
 }
 
 #header-outer a.cart-contents span:before, 
 #fp-nav.tooltip ul li .fp-tooltip .tooltip-inner:after { 
-	border-color: transparent #ffe900!important; 
+	border-color: transparent #F06E1B!important; 
 }
 
 body .col:not(.post-area):not(.span_12):not(#sidebar):hover .hovered .circle-border, 
@@ -590,16 +590,16 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 .portfolio-items[data-ps="6"].no-masonry .bg-overlay,
 .nectar_team_member_close .inner, 
 .nectar_team_member_overlay .team_member_details .bio-inner .mobile-close { 
-	border-color:#ffe900; 
+	border-color:#F06E1B; 
 }
 
 .widget .nectar_widget[class*="nectar_blog_posts_"] .arrow-circle svg circle,
 .nectar-woo-flickity[data-controls="arrows-and-text"] .flickity-prev-next-button svg circle.time { 
-	stroke: #ffe900; 
+	stroke: #F06E1B; 
 }
 
 .im-icon-wrap[data-color="accent-color"] path {
-		 fill: #ffe900;
+		 fill: #F06E1B;
 }
 
 @media only screen and (min-width : 1px) and (max-width : 1000px) {
