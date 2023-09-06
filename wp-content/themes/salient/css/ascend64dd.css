@@ -1045,15 +1045,7 @@ body.ascend .mfp-arrow-right,
     -o-box-shadow:none;
     padding:40px;
 }
-.container-wrap input[type="text2"] {
-    background-color:transparent;
-    border:1px solid #ccc;
-    box-shadow:none;
-    -webkit-box-shadow:none;
-    font-size:16px;
-    -o-box-shadow:none;
-    padding:16px;
-}
+
 
 .container-wrap textarea,
 .container-wrap input[type="email"],
@@ -1071,7 +1063,6 @@ body.ascend .mfp-arrow-right,
     padding:16px;
 }
 .container-wrap input[type="text"]:focus,
-.container-wrap input[type="text2"]:focus,
 .container-wrap textarea:focus,
 .container-wrap input[type="email"]:focus,
 .container-wrap input[type="password"]:focus,
